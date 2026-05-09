@@ -11,7 +11,6 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **React, Cyber Security & AI Tools**
 - 💻 Passionate about **Modern Web Development**
 - 🎨 Love creating **Beautiful UI/UX Designs**
 - 🚀 Goal: Become a **Full Stack Developer**
@@ -23,16 +22,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/Arjun664594" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername" target="_blank">
+<a href="https://linkedin.com/in/arjun-m-9a8937318" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://instagram.com/yourusername" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 </p>
 
